@@ -1,0 +1,6 @@
+Revision history for Perl extension Net::Packet::Dhcpclient.
+
+0.01  Tue Apr  1 01:44:01 2008
+	- original version; created by h2xs 1.23 with options
+		-X -n Net::Packet::Dhcpclient
+
